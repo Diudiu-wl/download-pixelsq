@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/download-pixelsq/static/css/main.f59cb518.css",
+    "main.js": "/download-pixelsq/static/js/main.6a55d6a0.js",
+    "index.html": "/download-pixelsq/index.html",
+    "main.f59cb518.css.map": "/download-pixelsq/static/css/main.f59cb518.css.map",
+    "main.6a55d6a0.js.map": "/download-pixelsq/static/js/main.6a55d6a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59cb518.css",
+    "static/js/main.6a55d6a0.js"
+  ]
+}
